@@ -17,3 +17,16 @@ ALGORITHM
 9.	Edge-based Blending: Combine the sharpened channel with the original channel based on the dilated edge map, applying the sharpening only where edges are detected.
 10.	Save the Sharpened Image: Write the final sharpened image to a file on the disk.
 11.	Display the Image: Display the final sharpened image in a window.
+
+
+
+Input Image
+
+![Impathon image](https://github.com/ParthGarg0304/Adaptive-Sharpening--Digital-Image-Processing/assets/114015879/7b8debf7-d025-4b64-ab96-7936525e15e5)
+
+
+
+sharpened image
+
+![bw_sharpened_image](https://github.com/ParthGarg0304/Adaptive-Sharpening--Digital-Image-Processing/assets/114015879/92879010-35d9-4d0a-bfa7-7f6e5b517e25)
+![color_sharpened_image](https://github.com/ParthGarg0304/Adaptive-Sharpening--Digital-Image-Processing/assets/114015879/b44cf2a9-24e1-46ce-840c-5b18dff90872)
